@@ -1,1 +1,1 @@
-"To jest plik tekstowy" 
+"To jest testowy plik w nowym folderze" 
